@@ -1,0 +1,12 @@
+{
+  "name": "learnyounode",
+  "version": "0.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bl": "^1.0.0",
+    "strftime": "^0.9.2",
+    "through2-map": "^2.0.0"
+  }
+}
