@@ -1,2 +1,81 @@
 # nodeschool
 Tracking my progress with the various NodeSchool modules.
+
+## Core
+ - [ ] learnyounode
+   - [ ] hello-world
+   - [ ] baby-steps
+   - [ ] first-i-o
+   - [ ] async-i-o
+   - [ ] filtered-ls
+   - [ ] make-it-modular
+   - [ ] http-client
+   - [ ] http-collect
+   - [ ] juggling-async
+   - [ ] time-server
+   - [ ] http-file-server
+   - [ ] http-uppercaserer
+   - [ ] http-json-api-server
+ - [ ] scope-chains-closures
+   - [ ] scopes
+   - [ ] scope-chains
+   - [ ] global-scope-and-shadowing
+   - [ ] closures
+   - [ ] garbage-collection (no code)
+ - [ ] stream-adventure
+   - [ ] beep-boop
+   - [ ] meet-pipe
+   - [ ] input-output
+   - [ ] transform
+   - [ ] lines
+   - [ ] concat
+   - [ ] http-server
+   - [ ] http-client
+   - [ ] websockets
+   - [ ] html-stream
+   - [ ] duplexer
+   - [ ] duplexer-redux
+   - [ ] combiner
+   - [ ] crypt
+   - [ ] secretz
+ - [ ] how-to-npm
+   - [ ] 00-install-npm
+   - [ ] 01-dev-environment
+   - [ ] 02-login
+   - [ ] 03-start-a-project
+   - [ ] 04-install-a-module
+   - [ ] 05-listing-dependencies
+   - [ ] 06-npm-test
+   - [ ] 07-package-niceties
+   - [ ] 08-publish
+   - [ ] 09-version
+   - [ ] 10-publish-again
+   - [ ] 11-dist-tag
+   - [ ] 12-dist-tag-removal
+   - [ ] 13-outdated
+   - [ ] 14-update
+   - [ ] 15-rm
+   - [ ] 16-finale
+
+
+## Workshops
+ - [ ] functional-javascript-workshop
+   - [ ] hello-world
+   - [ ] higher-order-functions
+   - [ ] basic-map
+   - [ ] basic-filter
+   - [ ] basic-every-some
+   - [ ] basic-reduce
+   - [ ] basic-recursion
+   - [ ] basic-call
+   - [ ] partial-application-without-bind
+   - [ ] partial-application-with-bind
+   - [ ] implement-map-with-reduce
+   - [ ] function-spies
+   - [ ] blocking-event-loop
+   - [ ] trampoline
+   - [ ] async-loops
+   - [ ] recursion
+   - [ ] currying
+   - [ ] function-call
+ - TBD
