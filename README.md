@@ -2,26 +2,26 @@
 Tracking my progress with the various NodeSchool modules.
 
 ## Core
- - [ ] learnyounode
-   - [ ] hello-world
-   - [ ] baby-steps
-   - [ ] first-i-o
-   - [ ] async-i-o
-   - [ ] filtered-ls
-   - [ ] make-it-modular
-   - [ ] http-client
-   - [ ] http-collect
-   - [ ] juggling-async
-   - [ ] time-server
-   - [ ] http-file-server
-   - [ ] http-uppercaserer
-   - [ ] http-json-api-server
- - [ ] scope-chains-closures
-   - [ ] scopes
-   - [ ] scope-chains
-   - [ ] global-scope-and-shadowing
-   - [ ] closures
-   - [ ] garbage-collection (no code)
+ - [x] learnyounode
+   - [x] hello-world
+   - [x] baby-steps
+   - [x] first-i-o
+   - [x] async-i-o
+   - [x] filtered-ls
+   - [x] make-it-modular
+   - [x] http-client
+   - [x] http-collect
+   - [x] juggling-async
+   - [x] time-server
+   - [x] http-file-server
+   - [x] http-uppercaserer
+   - [x] http-json-api-server
+ - [x] scope-chains-closures
+   - [x] scopes
+   - [x] scope-chains
+   - [x] global-scope-and-shadowing
+   - [x] closures
+   - [x] garbage-collection (no code)
  - [ ] stream-adventure
    - [ ] beep-boop
    - [ ] meet-pipe
