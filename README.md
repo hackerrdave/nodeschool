@@ -23,10 +23,10 @@ Tracking my progress with the various NodeSchool modules.
    - [x] closures
    - [x] garbage-collection (no code)
  - [ ] stream-adventure
-   - [ ] beep-boop
-   - [ ] meet-pipe
-   - [ ] input-output
-   - [ ] transform
+   - [x] beep-boop
+   - [x] meet-pipe
+   - [x] input-output
+   - [x] transform
    - [ ] lines
    - [ ] concat
    - [ ] http-server
