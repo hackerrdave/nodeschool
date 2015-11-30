@@ -27,7 +27,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] meet-pipe
    - [x] input-output
    - [x] transform
-   - [ ] lines
+   - [x] lines
    - [ ] concat
    - [ ] http-server
    - [ ] http-client
