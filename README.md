@@ -33,7 +33,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] http-client
    - [x] websockets
    - [x] html-stream
-   - [ ] duplexer
+   - [x] duplexer
    - [ ] duplexer-redux
    - [ ] combiner
    - [ ] crypt
