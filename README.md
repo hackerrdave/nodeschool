@@ -28,11 +28,11 @@ Tracking my progress with the various NodeSchool modules.
    - [x] input-output
    - [x] transform
    - [x] lines
-   - [ ] concat
-   - [ ] http-server
-   - [ ] http-client
-   - [ ] websockets
-   - [ ] html-stream
+   - [x] concat
+   - [x] http-server
+   - [x] http-client
+   - [x] websockets
+   - [x] html-stream
    - [ ] duplexer
    - [ ] duplexer-redux
    - [ ] combiner
