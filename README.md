@@ -38,25 +38,6 @@ Tracking my progress with the various NodeSchool modules.
    - [x] combiner
    - [x] crypt
    - [x] secretz
- - [ ] how-to-npm
-   - [x] 00-install-npm
-   - [x] 01-dev-environment
-   - [ ] 02-login
-   - [ ] 03-start-a-project
-   - [ ] 04-install-a-module
-   - [ ] 05-listing-dependencies
-   - [ ] 06-npm-test
-   - [ ] 07-package-niceties
-   - [ ] 08-publish
-   - [ ] 09-version
-   - [ ] 10-publish-again
-   - [ ] 11-dist-tag
-   - [ ] 12-dist-tag-removal
-   - [ ] 13-outdated
-   - [ ] 14-update
-   - [ ] 15-rm
-   - [ ] 16-finale
-
 
 ## Workshops
  - [ ] functional-javascript-workshop
