@@ -44,7 +44,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] hello-world
    - [x] higher-order-functions
    - [x] basic-map
-   - [ ] basic-filter
+   - [x] basic-filter
    - [ ] basic-every-some
    - [ ] basic-reduce
    - [ ] basic-recursion
