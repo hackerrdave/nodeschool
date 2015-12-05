@@ -35,7 +35,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] html-stream
    - [x] duplexer
    - [x] duplexer-redux
-   - [ ] combiner
+   - [x] combiner
    - [ ] crypt
    - [ ] secretz
  - [ ] how-to-npm
