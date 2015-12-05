@@ -22,7 +22,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] global-scope-and-shadowing
    - [x] closures
    - [x] garbage-collection (no code)
- - [ ] stream-adventure
+ - [x] stream-adventure
    - [x] beep-boop
    - [x] meet-pipe
    - [x] input-output
@@ -37,7 +37,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] duplexer-redux
    - [x] combiner
    - [x] crypt
-   - [ ] secretz
+   - [x] secretz
  - [ ] how-to-npm
    - [ ] 00-install-npm
    - [ ] 01-dev-environment
