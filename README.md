@@ -42,8 +42,8 @@ Tracking my progress with the various NodeSchool modules.
 ## Workshops
  - [ ] functional-javascript-workshop
    - [x] hello-world
-   - [ ] higher-order-functions
-   - [ ] basic-map
+   - [x] higher-order-functions
+   - [x] basic-map
    - [ ] basic-filter
    - [ ] basic-every-some
    - [ ] basic-reduce
