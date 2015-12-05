@@ -36,7 +36,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] duplexer
    - [x] duplexer-redux
    - [x] combiner
-   - [ ] crypt
+   - [x] crypt
    - [ ] secretz
  - [ ] how-to-npm
    - [ ] 00-install-npm

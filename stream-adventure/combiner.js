@@ -31,4 +31,5 @@ module.exports = function () {
   }
   
   return combiner(split(), grouper, zlib.createGzip());
-}
+};
+
