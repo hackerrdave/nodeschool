@@ -59,4 +59,36 @@ Tracking my progress with the various NodeSchool modules.
    - [ ] recursion
    - [ ] currying
    - [ ] function-call
- - TBD
+ - [ ] promise-it-wont-hurt
+   - [ ] fulfill-a-promise
+   - [ ] reject-a-promise
+   - [ ] to-reject-or-not-to-reject
+   - [ ] always-async
+   - [ ] values-and-promises
+   - [ ] throw-an-error
+   - [ ] using-qfcall
+   - [ ] an-important-rule
+   - [ ] multiple-promises
+   - [ ] fetch-json
+   - [ ] do-some-work
+   - [ ] more-functional
+ - [ ] browserify-adventure
+   - [ ] beep-boop
+   - [ ] using-npm packages
+   - [ ] single-export
+   - [ ] multi-export
+   - [ ] builtins
+   - [ ] build-a-widget
+   - [ ] using-transforms
+   - [ ] writing-transforms
+   - [ ] widget-with-assets
+   - [ ] shimming-non-commonjs-modules
+ - [ ] thinking-in-react
+   - [ ] step-1
+   - [ ] step-2-part-1
+   - [ ] step-2-part-2
+   - [ ] step-2-part-3
+   - [ ] step-3
+   - [ ] step-4
+   - [ ] step-5
+ - [ ] TBD
