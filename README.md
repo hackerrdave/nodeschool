@@ -39,8 +39,8 @@ Tracking my progress with the various NodeSchool modules.
    - [x] crypt
    - [x] secretz
  - [ ] how-to-npm
-   - [ ] 00-install-npm
-   - [ ] 01-dev-environment
+   - [x] 00-install-npm
+   - [x] 01-dev-environment
    - [ ] 02-login
    - [ ] 03-start-a-project
    - [ ] 04-install-a-module
