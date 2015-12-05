@@ -45,7 +45,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] higher-order-functions
    - [x] basic-map
    - [x] basic-filter
-   - [ ] basic-every-some
+   - [x] basic-every-some
    - [ ] basic-reduce
    - [ ] basic-recursion
    - [ ] basic-call
