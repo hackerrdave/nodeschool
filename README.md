@@ -47,7 +47,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] basic-filter
    - [x] basic-every-some
    - [x] basic-reduce
-   - [ ] basic-recursion
+   - [x] basic-recursion
    - [ ] basic-call
    - [ ] partial-application-without-bind
    - [ ] partial-application-with-bind
