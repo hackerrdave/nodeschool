@@ -48,7 +48,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] basic-every-some
    - [x] basic-reduce
    - [x] basic-recursion
-   - [ ] basic-call
+   - [x] basic-call
    - [ ] partial-application-without-bind
    - [ ] partial-application-with-bind
    - [ ] implement-map-with-reduce
