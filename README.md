@@ -49,7 +49,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] basic-reduce
    - [x] basic-recursion
    - [x] basic-call
-   - [ ] partial-application-without-bind
+   - [x] partial-application-without-bind
    - [ ] partial-application-with-bind
    - [ ] implement-map-with-reduce
    - [ ] function-spies
