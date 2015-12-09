@@ -51,7 +51,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] basic-call
    - [x] partial-application-without-bind
    - [x] partial-application-with-bind
-   - [ ] implement-map-with-reduce
+   - [x] implement-map-with-reduce
    - [ ] function-spies
    - [ ] blocking-event-loop
    - [ ] trampoline
