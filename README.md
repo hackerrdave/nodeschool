@@ -54,7 +54,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] implement-map-with-reduce
    - [x] function-spies
    - [x] blocking-event-loop
-   - [ ] trampoline
+   - [x] trampoline
    - [ ] async-loops
    - [ ] recursion
    - [ ] currying
