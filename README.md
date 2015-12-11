@@ -40,7 +40,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] secretz
 
 ## Workshops
- - [ ] functional-javascript-workshop
+ - [x] functional-javascript-workshop
    - [x] hello-world
    - [x] higher-order-functions
    - [x] basic-map
@@ -58,7 +58,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] async-loops
    - [x] recursion
    - [x] currying
-   - [ ] function-call
+   - [x] function-call
  - [ ] promise-it-wont-hurt
    - [ ] fulfill-a-promise
    - [ ] reject-a-promise
