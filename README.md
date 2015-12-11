@@ -61,7 +61,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] function-call
  - [ ] promise-it-wont-hurt
    - [x] fulfill-a-promise
-   - [ ] reject-a-promise
+   - [x] reject-a-promise
    - [ ] to-reject-or-not-to-reject
    - [ ] always-async
    - [ ] values-and-promises
