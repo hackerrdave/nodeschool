@@ -57,7 +57,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] trampoline
    - [x] async-loops
    - [x] recursion
-   - [ ] currying
+   - [x] currying
    - [ ] function-call
  - [ ] promise-it-wont-hurt
    - [ ] fulfill-a-promise
