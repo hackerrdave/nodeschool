@@ -60,7 +60,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] currying
    - [x] function-call
  - [ ] promise-it-wont-hurt
-   - [ ] fulfill-a-promise
+   - [x] fulfill-a-promise
    - [ ] reject-a-promise
    - [ ] to-reject-or-not-to-reject
    - [ ] always-async
