@@ -55,7 +55,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] function-spies
    - [x] blocking-event-loop
    - [x] trampoline
-   - [ ] async-loops
+   - [x] async-loops
    - [ ] recursion
    - [ ] currying
    - [ ] function-call
