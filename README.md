@@ -63,7 +63,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] fulfill-a-promise
    - [x] reject-a-promise
    - [x] to-reject-or-not-to-reject
-   - [ ] always-async
+   - [x] always-async
    - [ ] values-and-promises
    - [ ] throw-an-error
    - [ ] using-qfcall
