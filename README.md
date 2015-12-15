@@ -66,7 +66,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] always-async
    - [x] values-and-promises
    - [x] throw-an-error
-   - [ ] using-qfcall
+   - [x] using-qfcall
    - [ ] an-important-rule
    - [ ] multiple-promises
    - [ ] fetch-json
