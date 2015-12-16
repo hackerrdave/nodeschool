@@ -68,7 +68,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] throw-an-error
    - [x] using-qfcall
    - [x] an-important-rule
-   - [ ] multiple-promises
+   - [x] multiple-promises
    - [ ] fetch-json
    - [ ] do-some-work
    - [ ] more-functional
