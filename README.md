@@ -59,7 +59,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] recursion
    - [x] currying
    - [x] function-call
- - [ ] promise-it-wont-hurt
+ - [x] promise-it-wont-hurt
    - [x] fulfill-a-promise
    - [x] reject-a-promise
    - [x] to-reject-or-not-to-reject
@@ -72,7 +72,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] fetch-json
    - [x] do-some-work
  - [ ] browserify-adventure
-   - [ ] beep-boop
+   - [x] beep-boop
    - [ ] using-npm packages
    - [ ] single-export
    - [ ] multi-export
