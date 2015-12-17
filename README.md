@@ -69,7 +69,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] using-qfcall
    - [x] an-important-rule
    - [x] multiple-promises
-   - [ ] fetch-json
+   - [x] fetch-json
    - [ ] do-some-work
    - [ ] more-functional
  - [ ] browserify-adventure
