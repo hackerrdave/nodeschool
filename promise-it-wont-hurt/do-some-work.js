@@ -1,5 +1,4 @@
 var qhttp = require('q-io/http');
-var http = require('http');
 
 var sessionCache = 'http://localhost:7000/';
 var database = 'http://localhost:7001/';

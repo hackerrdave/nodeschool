@@ -71,7 +71,6 @@ Tracking my progress with the various NodeSchool modules.
    - [x] multiple-promises
    - [x] fetch-json
    - [x] do-some-work
-   - [ ] more-functional
  - [ ] browserify-adventure
    - [ ] beep-boop
    - [ ] using-npm packages
