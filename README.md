@@ -74,7 +74,7 @@ Tracking my progress with the various NodeSchool modules.
  - [ ] browserify-adventure
    - [x] beep-boop
    - [x] using-npm packages
-   - [ ] single-export
+   - [x] single-export
    - [ ] multi-export
    - [ ] builtins
    - [ ] build-a-widget
