@@ -75,7 +75,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] beep-boop
    - [x] using-npm packages
    - [x] single-export
-   - [ ] multi-export
+   - [x] multi-export
    - [ ] builtins
    - [ ] build-a-widget
    - [ ] using-transforms
