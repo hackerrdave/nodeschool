@@ -76,7 +76,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] using-npm packages
    - [x] single-export
    - [x] multi-export
-   - [ ] builtins
+   - [x] builtins
    - [ ] build-a-widget
    - [ ] using-transforms
    - [ ] writing-transforms
