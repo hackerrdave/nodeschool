@@ -77,7 +77,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] single-export
    - [x] multi-export
    - [x] builtins
-   - [ ] build-a-widget
+   - [x] build-a-widget
    - [ ] using-transforms
    - [ ] writing-transforms
    - [ ] widget-with-assets
