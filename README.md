@@ -79,7 +79,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] builtins
    - [x] build-a-widget
    - [x] using-transforms
-   - [ ] writing-transforms
+   - [x] writing-transforms
    - [ ] widget-with-assets
    - [ ] shimming-non-commonjs-modules
  - [ ] thinking-in-react
