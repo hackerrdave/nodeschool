@@ -85,7 +85,7 @@ Tracking my progress with the various NodeSchool modules.
  - [ ] thinking-in-react
    - [x] step-1
    - [x] step-2-part-1
-   - [ ] step-2-part-2
+   - [x] step-2-part-2
    - [ ] step-2-part-3
    - [ ] step-3
    - [ ] step-4
