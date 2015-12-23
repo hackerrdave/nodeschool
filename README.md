@@ -71,7 +71,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] multiple-promises
    - [x] fetch-json
    - [x] do-some-work
- - [ ] browserify-adventure
+ - [x] browserify-adventure
    - [x] beep-boop
    - [x] using-npm packages
    - [x] single-export
@@ -83,8 +83,8 @@ Tracking my progress with the various NodeSchool modules.
    - [x] widget-with-assets
    - [x] shimming-non-commonjs-modules
  - [ ] thinking-in-react
-   - [ ] step-1
-   - [ ] step-2-part-1
+   - [x] step-1
+   - [x] step-2-part-1
    - [ ] step-2-part-2
    - [ ] step-2-part-3
    - [ ] step-3
