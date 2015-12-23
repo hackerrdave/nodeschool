@@ -81,7 +81,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] using-transforms
    - [x] writing-transforms
    - [x] widget-with-assets
-   - [ ] shimming-non-commonjs-modules
+   - [x] shimming-non-commonjs-modules
  - [ ] thinking-in-react
    - [ ] step-1
    - [ ] step-2-part-1
