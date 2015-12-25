@@ -87,7 +87,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] step-2-part-1
    - [x] step-2-part-2
    - [x] step-2-part-3
-   - [ ] step-3
+   - [x] step-3
    - [ ] step-4
    - [ ] step-5
  - [ ] TBD
