@@ -1,4 +1,4 @@
-# nodeschool
+/# nodeschool
 Tracking my progress with the various NodeSchool modules.
 
 ## Core
@@ -88,6 +88,6 @@ Tracking my progress with the various NodeSchool modules.
    - [x] step-2-part-2
    - [x] step-2-part-3
    - [x] step-3
-   - [ ] step-4
+   - [x] step-4
    - [ ] step-5
  - [ ] TBD
