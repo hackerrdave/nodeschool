@@ -82,7 +82,7 @@ Tracking my progress with the various NodeSchool modules.
    - [x] writing-transforms
    - [x] widget-with-assets
    - [x] shimming-non-commonjs-modules
- - [ ] thinking-in-react
+ - [x] thinking-in-react
    - [x] step-1
    - [x] step-2-part-1
    - [x] step-2-part-2
@@ -90,4 +90,17 @@ Tracking my progress with the various NodeSchool modules.
    - [x] step-3
    - [x] step-4
    - [x] step-5
+  - [ ] tower-of-babel
+   - [ ] babel-setup
+   - [ ] class
+   - [ ] class-extend
+   - [ ] modules-with-name
+   - [ ] modules-default-export
+   - [ ] block-scope
+   - [ ] computed-property
+   - [ ] iterator-for-of
+   - [ ] generator
+   - [ ] destructure
+   - [ ] arrow function
+   - [ ] rest and spread
  - [ ] TBD
