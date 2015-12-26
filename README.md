@@ -90,7 +90,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] step-3
    - [x] step-4
    - [x] step-5
-  - [ ] [tower-of-babel](https://github.com/yosuke-furukawa/tower-of-babel)
+ - [ ] [tower-of-babel](https://github.com/yosuke-furukawa/tower-of-babel)
    - [ ] babel-setup
    - [ ] class
    - [ ] class-extend
