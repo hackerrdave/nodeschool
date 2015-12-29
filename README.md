@@ -93,7 +93,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
  - [ ] [tower-of-babel](https://github.com/yosuke-furukawa/tower-of-babel)
    - [x] babel-setup
    - [x] class
-   - [ ] class-extend
+   - [x] class-extend
    - [ ] modules-with-name
    - [ ] modules-default-export
    - [ ] block-scope
