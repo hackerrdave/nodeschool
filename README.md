@@ -94,7 +94,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] babel-setup
    - [x] class
    - [x] class-extend
-   - [ ] modules-with-name
+   - [x] modules-with-name
    - [ ] modules-default-export
    - [ ] block-scope
    - [ ] computed-property
