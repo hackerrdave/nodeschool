@@ -95,7 +95,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] class
    - [x] class-extend
    - [x] modules-with-name
-   - [ ] modules-default-export
+   - [x] modules-default-export
    - [ ] block-scope
    - [ ] computed-property
    - [ ] iterator-for-of
