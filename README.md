@@ -97,7 +97,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] modules-with-name
    - [x] modules-default-export
    - [x] block-scope
-   - [ ] computed-property
+   - [x] computed-property
    - [ ] iterator-for-of
    - [ ] generator
    - [ ] destructure
