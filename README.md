@@ -99,7 +99,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] block-scope
    - [x] computed-property
    - [x] iterator-for-of
-   - [ ] generator
+   - [x] generator
    - [ ] destructure
    - [ ] arrow function
    - [ ] rest and spread
