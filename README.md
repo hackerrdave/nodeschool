@@ -100,7 +100,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] computed-property
    - [x] iterator-for-of
    - [x] generator
-   - [ ] destructure
+   - [x] destructure
    - [ ] arrow function
    - [ ] rest and spread
  - [ ] TBD
