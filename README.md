@@ -101,6 +101,6 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] iterator-for-of
    - [x] generator
    - [x] destructure
-   - [ ] arrow function
+   - [x] arrow function
    - [ ] rest and spread
  - [ ] TBD
