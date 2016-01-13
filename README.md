@@ -105,7 +105,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] rest and spread
  - [ ] [bytewiser](https://github.com/maxogden/bytewiser)
    - [x] buffer-from-string
-   - [ ] hexadecimal-encoding
+   - [x] hexadecimal-encoding
    - [ ] modifying-buffers
    - [ ] line-splitter
    - [ ] buffer-concat
