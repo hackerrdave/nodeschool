@@ -112,8 +112,8 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [ ] typed-arrays
    - [ ] array-buffers
  - [ ] [count-to-6](https://github.com/domenic/count-to-6)
-   - [ ] hello-es6
-   - [ ] template-strings
+   - [x] hello-es6
+   - [x] template-strings
    - [ ] arrow-functions-part-1
    - [ ] arrow-functions-and-this
    - [ ] spread
