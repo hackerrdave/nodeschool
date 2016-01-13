@@ -103,4 +103,22 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] destructure
    - [x] arrow function
    - [x] rest and spread
+ - [ ] [bytewiser](https://github.com/maxogden/bytewiser)
+   - [x] buffer-from-string
+   - [ ] hexadecimal-encoding
+   - [ ] modifying-buffers
+   - [ ] line-splitter
+   - [ ] buffer-concat
+   - [ ] typed-arrays
+   - [ ] array-buffers
+ - [ ] [count-to-6](https://github.com/domenic/count-to-6)
+   - [ ] hello-es6
+   - [ ] template-strings
+   - [ ] arrow-functions-part-1
+   - [ ] arrow-functions-and-this
+   - [ ] spread
+   - [ ] rest
+   - [ ] default-arguments-part-1
+   - [ ] default-arguments-part-2
+   - [ ] tagged-template-strings
  - [ ] TBD
