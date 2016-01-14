@@ -106,7 +106,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
  - [ ] [bytewiser](https://github.com/maxogden/bytewiser)
    - [x] buffer-from-string
    - [x] hexadecimal-encoding
-   - [ ] modifying-buffers
+   - [x] modifying-buffers
    - [ ] line-splitter
    - [ ] buffer-concat
    - [ ] typed-arrays
