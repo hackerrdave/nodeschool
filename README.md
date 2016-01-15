@@ -108,7 +108,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] hexadecimal-encoding
    - [x] modifying-buffers
    - [x] line-splitter
-   - [ ] buffer-concat
+   - [x] buffer-concat
    - [ ] typed-arrays
    - [ ] array-buffers
  - [ ] [count-to-6](https://github.com/domenic/count-to-6)
