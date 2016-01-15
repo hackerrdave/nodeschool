@@ -107,7 +107,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] buffer-from-string
    - [x] hexadecimal-encoding
    - [x] modifying-buffers
-   - [ ] line-splitter
+   - [x] line-splitter
    - [ ] buffer-concat
    - [ ] typed-arrays
    - [ ] array-buffers
