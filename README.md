@@ -103,14 +103,14 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] destructure
    - [x] arrow function
    - [x] rest and spread
- - [ ] [bytewiser](https://github.com/maxogden/bytewiser)
+ - [x] [bytewiser](https://github.com/maxogden/bytewiser)
    - [x] buffer-from-string
    - [x] hexadecimal-encoding
    - [x] modifying-buffers
    - [x] line-splitter
    - [x] buffer-concat
-   - [ ] typed-arrays
-   - [ ] array-buffers
+   - [x] typed-arrays
+   - [x] array-buffers
  - [ ] [count-to-6](https://github.com/domenic/count-to-6)
    - [x] hello-es6
    - [x] template-strings
