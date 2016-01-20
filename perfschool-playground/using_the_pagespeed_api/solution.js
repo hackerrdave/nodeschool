@@ -5,6 +5,7 @@ var path = require('path');
 var express = require('express');
 var app = express();
 var port = process.env.PORT || 7777;
+var psi = require('psi');
 
 app.get('/', home);
 app.get('/insights', insights);
@@ -21,5 +22,16 @@ function home (req, res) {
 }
 
 function insights (req, res) {
-  res.end('Not very insightful!');
+  psi('https://nejwfzvakq.localtunnel.me').then(function(data) {
+    var output = {
+      'resources': {
+        'css': data.pageStats.numberCssResources,
+        'js': data.pageStats.numberJsResources,
+        'hosts': data.pageStats.numberHosts,
+        'total': data.pageStats.numberResources
+      }
+    };
+
+    res.end(JSON.stringify(output));
+  });
 }

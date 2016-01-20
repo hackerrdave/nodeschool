@@ -122,7 +122,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [ ] default-arguments-part-2
    - [ ] tagged-template-strings
  - [ ] [perfschool](https://github.com/bevacqua/perfschool)
-   - [ ] using-the-page-speed-api
+   - [x] using-the-page-speed-api
    - [ ] using-the-webpagetest-api
    - [ ] defer-all-the-things
    - [ ] enforcing-a-performance-budget
