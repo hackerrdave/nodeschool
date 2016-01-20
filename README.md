@@ -116,7 +116,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] template-strings
    - [x] arrow-functions-part-1
    - [x] arrow-functions-and-this
-   - [ ] spread
+   - [x] spread
    - [ ] rest
    - [ ] default-arguments-part-1
    - [ ] default-arguments-part-2
