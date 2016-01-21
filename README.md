@@ -132,4 +132,16 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [ ] using-a-font-loader
    - [ ] creating-spritesheets
    - [ ] optimizing-images
+ - [ ] [learnyoureact](https://github.com/kohei-takata/learnyoureact)
+   - [x] hello-react
+   - [ ] components
+   - [ ] props
+   - [ ] proptypes
+   - [ ] state
+   - [ ] css
+   - [ ] props-from-server
+   - [ ] isomorphic
+   - [ ] css2
+   - [ ] event
+   - [ ] prop-and-state
  - [ ] TBD
