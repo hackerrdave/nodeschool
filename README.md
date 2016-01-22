@@ -135,7 +135,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
  - [ ] [learnyoureact](https://github.com/kohei-takata/learnyoureact)
    - [x] hello-react
    - [x] components
-   - [ ] props
+   - [x] props
    - [ ] proptypes
    - [ ] state
    - [ ] css

@@ -17,8 +17,28 @@ class TodoList extends React.Component {
   render() {
     return (
       <div className="todoList">
-        I am a TodoList.
+        <table style={{border: "2px solid black"}}>
+          <tbody>
+            <Todo title="Shopping">Milk</Todo>
+            <Todo title="Hair cut">13:00</Todo>
+          </tbody>
+        </table>
       </div>
+    );
+  }
+}
+
+class Todo extends React.Component {
+  render() {
+    const tdStyle = {
+      border: '1px solid black'
+    };
+
+    return (
+      <tr>
+        <td style={tdStyle}>{this.props.title}</td>
+        <td style={tdStyle}>{this.props.children}</td>
+      </tr>
     );
   }
 }
