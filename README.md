@@ -134,7 +134,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [ ] optimizing-images
  - [ ] [learnyoureact](https://github.com/kohei-takata/learnyoureact)
    - [x] hello-react
-   - [ ] components
+   - [x] components
    - [ ] props
    - [ ] proptypes
    - [ ] state
