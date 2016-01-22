@@ -136,7 +136,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] hello-react
    - [x] components
    - [x] props
-   - [ ] proptypes
+   - [x] proptypes
    - [ ] state
    - [ ] css
    - [ ] props-from-server
