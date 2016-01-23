@@ -40,17 +40,13 @@ class Todo extends React.Component {
   }
 
   render() {
-    const tdStyle = {
-      border: '1px solid black'
-    };
-
     return (
       <tr>
-        <td style={tdStyle}>
+        <td style={style.tableContent}>
           <input type="checkbox" checked={this.state.checked} onChange={this.handleChange}/>
         </td>
-        <td style={tdStyle}>{this.props.title}</td>
-        <td style={tdStyle}>{this.props.children}</td>
+        <td style={style.tableContent}>{this.props.title}</td>
+        <td style={style.tableContent}>{this.props.children}</td>
       </tr>
     );
   }
@@ -70,3 +66,8 @@ class TodoForm extends React.Component {
   }
 }
 
+let style = {
+  tableContent: {
+    border: '1px solid black'
+  }
+};
