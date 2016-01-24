@@ -141,7 +141,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] css
    - [x] props-from-server
    - [x] isomorphic
-   - [ ] css2
+   - [x] css2
    - [ ] event
    - [ ] prop-and-state
  - [ ] TBD

@@ -35,7 +35,6 @@ app.use('/bundle.js', function(req, res) {
     .transform(babelify.configure({
       presets: ['react', 'es2015'],
       ignore: ['**/lib/**', '**/node_modules/**'],
-      compact: true
     }))
     .require('./app.js', { entry: true })
     .bundle()
