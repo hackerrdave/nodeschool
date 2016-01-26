@@ -14,10 +14,53 @@ export default class TodoBox extends React.Component {
 
 
 class TodoList extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      data: this.props.data,
+      titleValue: '',
+      detailValue: ''
+    };
+
+    this.changeTitle = this.changeTitle.bind(this);
+    this.changeDetail = this.changeDetail.bind(this);
+    this.addTodo = this.addTodo.bind(this);
+  }
+
+  changeTitle(e) {
+    this.setState({titleValue: e.target.value});
+  }
+
+  changeDetail(e) {
+    this.setState({detailValue: e.target.value});
+  }
+
+  addTodo() {
+    let updatedData = this.state.data;
+
+    updatedData.push({
+      key: Math.floor(Math.random()*1000),
+      title: this.state.titleValue,
+      detail: this.state.detailValue
+    });
+
+    this.setState({
+      data: updatedData,
+      titleValue: '',
+      detailValue: ''
+    });
+  }
+
   render() {
-    var todo = this.props.data.map((obj) => <Todo title={obj.title} key={obj.key}>{obj.detail}</Todo>);
+    let todo = this.state.data.map((obj) => <Todo title={obj.title} key={obj.key}>{obj.detail}</Todo>);
+
     return (
       <div className="todoList">
+        <div>
+          Title:<input type="text" value={this.state.titleValue} onChange={this.changeTitle} />
+          Detail:<input type="text" value={this.state.detailValue} onChange={this.changeDetail} />
+          <button onClick={this.addTodo}>Add</button>
+        </div>
         <table style={{border: "2px solid black"}}>
           <tbody>
             {todo}
