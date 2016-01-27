@@ -25,6 +25,7 @@ class TodoList extends React.Component {
     this.changeTitle = this.changeTitle.bind(this);
     this.changeDetail = this.changeDetail.bind(this);
     this.addTodo = this.addTodo.bind(this);
+    this.deleteTodo = this.deleteTodo.bind(this);
   }
 
   changeTitle(e) {
@@ -51,8 +52,13 @@ class TodoList extends React.Component {
     });
   }
 
+  deleteTodo(title) {
+    let updatedData = this.state.data.filter((todo) => todo.title !== title);
+    this.setState({data: updatedData});
+  }
+
   render() {
-    let todo = this.state.data.map((obj) => <Todo title={obj.title} key={obj.key}>{obj.detail}</Todo>);
+    let todo = this.state.data.map((obj) => <Todo onDelete={this.deleteTodo} title={obj.title} key={obj.key}>{obj.detail}</Todo>);
 
     return (
       <div className="todoList">
@@ -80,6 +86,7 @@ class Todo extends React.Component {
     };
 
     this.handleChange = this.handleChange.bind(this);
+    this._onDelete = this._onDelete.bind(this);
   }
 
   handleChange(e) {
@@ -91,9 +98,14 @@ class Todo extends React.Component {
     });
   }
 
+  _onDelete() {
+    this.props.onDelete(this.props.title);
+  }
+
   render() {
     return (
       <tr style={this.state.style}>
+        <td style={style.tableContent}><button onClick={this._onDelete}>X</button></td>
         <td style={style.tableContent}>
           <input type="checkbox" checked={this.state.checked} onChange={this.handleChange}/>
         </td>
