@@ -118,7 +118,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] arrow-functions-and-this
    - [x] spread
    - [x] rest
-   - [ ] default-arguments-part-1
+   - [x] default-arguments-part-1
    - [ ] default-arguments-part-2
    - [ ] tagged-template-strings
  - [ ] [perfschool](https://github.com/bevacqua/perfschool)
