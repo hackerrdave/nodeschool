@@ -119,7 +119,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] spread
    - [x] rest
    - [x] default-arguments-part-1
-   - [ ] default-arguments-part-2
+   - [x] default-arguments-part-2
    - [ ] tagged-template-strings
  - [ ] [perfschool](https://github.com/bevacqua/perfschool)
    - [x] using-the-page-speed-api
