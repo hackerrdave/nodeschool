@@ -111,7 +111,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] buffer-concat
    - [x] typed-arrays
    - [x] array-buffers
- - [ ] [count-to-6](https://github.com/domenic/count-to-6)
+ - [x] [count-to-6](https://github.com/domenic/count-to-6)
    - [x] hello-es6
    - [x] template-strings
    - [x] arrow-functions-part-1
@@ -120,7 +120,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] rest
    - [x] default-arguments-part-1
    - [x] default-arguments-part-2
-   - [ ] tagged-template-strings
+   - [x] tagged-template-strings
  - [ ] [perfschool](https://github.com/bevacqua/perfschool)
    - [x] using-the-page-speed-api
    - [ ] using-the-webpagetest-api
