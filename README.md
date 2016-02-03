@@ -148,7 +148,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] variables
    - [x] nesting
    - [x] imports
-   - [ ] mixins
+   - [x] mixins
    - [ ] mixin-content
    - [ ] extend-and-inheritance
    - [ ] operators
