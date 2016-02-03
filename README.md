@@ -147,7 +147,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
  - [ ] [learn-sass](https://github.com/claudiopro/learn-sass)
    - [x] variables
    - [x] nesting
-   - [ ] imports
+   - [x] imports
    - [ ] mixins
    - [ ] mixin-content
    - [ ] extend-and-inheritance
