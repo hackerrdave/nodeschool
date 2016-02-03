@@ -144,4 +144,18 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] css2
    - [x] event
    - [x] prop-and-state
+ - [ ] [learn-sass](https://github.com/claudiopro/learn-sass)
+   - [ ] variables
+   - [ ] nesting
+   - [ ] imports
+   - [ ] mixins
+   - [ ] mixin-content
+   - [ ] extend-and-inheritance
+   - [ ] operators
+   - [ ] nested-properties
+   - [ ] parent-selector
+   - [ ] interpolation
+   - [ ] each-iterator
+   - [ ] for-loop
+   - [ ] while-loop
  - [ ] TBD
