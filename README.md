@@ -145,8 +145,8 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] event
    - [x] prop-and-state
  - [ ] [learn-sass](https://github.com/claudiopro/learn-sass)
-   - [ ] variables
-   - [ ] nesting
+   - [x] variables
+   - [x] nesting
    - [ ] imports
    - [ ] mixins
    - [ ] mixin-content
