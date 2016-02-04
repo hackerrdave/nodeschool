@@ -149,7 +149,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] nesting
    - [x] imports
    - [x] mixins
-   - [ ] mixin-content
+   - [x] mixin-content
    - [ ] extend-and-inheritance
    - [ ] operators
    - [ ] nested-properties
