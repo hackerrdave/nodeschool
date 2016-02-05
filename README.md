@@ -151,7 +151,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] mixins
    - [x] mixin-content
    - [x] extend-and-inheritance
-   - [ ] operators
+   - [x] operators
    - [ ] nested-properties
    - [ ] parent-selector
    - [ ] interpolation
