@@ -154,7 +154,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] operators
    - [x] nested-properties
    - [x] parent-selector
-   - [ ] interpolation
+   - [x] interpolation
    - [ ] each-iterator
    - [ ] for-loop
    - [ ] while-loop
