@@ -156,6 +156,6 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] parent-selector
    - [x] interpolation
    - [x] each-iterator
-   - [ ] for-loop
+   - [x] for-loop
    - [ ] while-loop
  - [ ] TBD
