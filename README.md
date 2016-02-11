@@ -144,7 +144,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] css2
    - [x] event
    - [x] prop-and-state
- - [ ] [learn-sass](https://github.com/claudiopro/learn-sass)
+ - [x] [learn-sass](https://github.com/claudiopro/learn-sass)
    - [x] variables
    - [x] nesting
    - [x] imports
@@ -157,5 +157,5 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] interpolation
    - [x] each-iterator
    - [x] for-loop
-   - [ ] while-loop
+   - [x] while-loop
  - [ ] TBD
