@@ -158,4 +158,14 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] each-iterator
    - [x] for-loop
    - [x] while-loop
+ - [ ] [node-debug-school](https://github.com/joyent/node-debug-school)
+   - [x] generate-core-from-a-running-app
+   - [ ] generate-core-when-an-app-crashes
+   - [ ] load-v8-module
+   - [ ] call-stack
+   - [ ] find-all-js-objects
+   - [ ] print-all-objects-with-a-given-type
+   - [ ] print-only-a-given-property-of-a-list-of-objects
+   - [ ] print-all-objects-with-a-given-constructor
+   - [ ] find-objects-with-a-specific-property
  - [ ] TBD
