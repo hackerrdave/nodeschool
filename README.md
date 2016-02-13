@@ -162,7 +162,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
    - [x] generate-core-from-a-running-app
    - [ ] generate-core-when-an-app-crashes
    - [x] load-v8-module
-   - [ ] call-stack
+   - [x] call-stack
    - [ ] find-all-js-objects
    - [ ] print-all-objects-with-a-given-type
    - [ ] print-only-a-given-property-of-a-list-of-objects
