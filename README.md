@@ -161,7 +161,7 @@ Tracking my progress in completing the various [NodeSchool](http://nodeschool.io
  - [ ] [node-debug-school](https://github.com/joyent/node-debug-school)
    - [x] generate-core-from-a-running-app
    - [ ] generate-core-when-an-app-crashes
-   - [ ] load-v8-module
+   - [x] load-v8-module
    - [ ] call-stack
    - [ ] find-all-js-objects
    - [ ] print-all-objects-with-a-given-type
